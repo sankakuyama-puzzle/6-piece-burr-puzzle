@@ -23,6 +23,6 @@ Introducing a 3D model (STL File) of a 6 piece burr puzzle
 ## 4. おすすめの組み合わせ
 3Dモデルを作成するのはそれほど大変なことではありません。小さな立方体を並べて組み木のピースを作って、IDに従って除去していけばいいのです。
 
-[WoodenPuzzle](STL/PID51.stl)<br>
-[WoodenPuzzle](STL/PID791.stl)<br>
+[ID51](STL/ID51.stl)<br>
+[ID791](STL/ID791.stl)<br>
 
